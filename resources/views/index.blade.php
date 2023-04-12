@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Nouch-勤怠をスマートに-</title>
+    <title>kintai</title>
     <style>
         body {
             background-color: #74EBA4;
@@ -75,7 +75,7 @@
 </head>
 
 <body>
-    <h1>Nouch</h1>
+    <h1>kintai</h1>
 
     <div class="login-box">
         @guest
